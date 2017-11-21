@@ -8,3 +8,5 @@ A2lixAutoFormBundle
 
 
 In progress
+
+FORK: [![Build Status](https://travis-ci.org/fa-dd/AutoFormBundle.svg?branch=master)](https://travis-ci.org/fa-dd/AutoFormBundle)
